@@ -11,6 +11,7 @@ build/
 .idea/libraries/
 .idea/workspace.xml
 .idea/misc.xml
+.idea
 *.iws
 *.iml
 *.ipr
